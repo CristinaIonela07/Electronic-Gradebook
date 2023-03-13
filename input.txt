@@ -1,0 +1,60 @@
+Courses: [
+Programare Orientata pe Obiecte { type: FullCourse ; strategy: BestPartialScore ; teacher: Ion Mihalache ; assistants: Alexandra Maria , Andrei Georgescu ; }
+Paradigme de programare { type: FullCourse ; strategy: BestExamScore ; teacher: Sonia Lupu ; assistants: Florentina Bratosin , Horia Chita ; }
+Electronica digitala { type: PartialCourse ; strategy: BestTotalScore ; teacher: George Dinu ; assistants: Emilian Voinea , Adrian Sava ; }
+Sisteme de operare { type: FullCourse ; strategy: BestPartialScore ; teacher: Razvan Calinescu ; assistants: Alma Toma , Costel Cosma ; }
+]
+
+Groups: [
+311CC : Costel Cosma , Adrian Sava {
+Livia Ursu :: mother: Raluca Ursu , father: Vlad Ursu
+Alfred Pop :: mother: Flori Pop , father: Albert Pop
+Iulian Iancu :: mother: Elena Iancu , father: Liviu Iancu
+Sofia Negoita :: mother: Ana Negoita , father: Marius Negoita
+Alma Dobrica :: mother: Corina Dobrica , father: Cristi Dobrica
+}
+312CC : Alexandra Maria , Florentina Bratosin {
+Gigel Frone :: mother: Maria Frone , father: Daniel Frone
+Cosmin Andrei :: mother: Simona Andrei , father: Vasile Andrei
+Ionel Dragomir :: mother: Letitia Dragomir , father: Petre Dragomir
+Florin Florea :: mother: Adriana Florea , father: Catalin Florea
+Costel Busuioc :: mother: Carmen Busuioc , father: Nelu Busuioc
+}
+313CC : Alma Toma , Emilian Voinea {
+Cristian Manole :: mother: Victoria Manole , father: Andrei Manole
+Denisa Pavel :: mother: Georgeta Pavel , father: Bogdan Pavel
+Alex Petrescu :: mother: Monica Petrescu , father: Claudiu Petrescu
+Cosmin Tomulescu :: mother: Emilia Tomulescu , father: Gica Tomulescu
+Camelia Tunaru :: mother: Petra Tunaru , father : Cristian Tunaru
+}
+314CC : Andrei Georgescu , Horia Chita {
+Sebastian Moisescu :: mother: Viorela Moisescu , father: Ionut Moisescu
+Larisa Oana :: mother: Valeria Oana , father: Alecu Oana
+Georgiana Calin :: mother: Lidia Calin , father: George Calin
+Dragos Barbu :: mother: Anastasia Barbu , father: Lucian Barbu
+Alberto Ciobanu :: mother: Mihaela Ciobanu , father: Emil Ciobanu
+}
+]
+
+Grades: [
+Gigel Frone { Programare Orientata pe Obiecte : 3.45 2.67 ; Paradigme de programare : 3.12 0.56 }
+Cosmin Andrei { Programare Orientata pe Obiecte : 4.65 3.12 ; Paradigme de programare : 3.48 0.74 }
+Ionel Dragomir { Programare Orientata pe Obiecte : 2.65 4.36 ; Paradigme de programare : 5.00 4.32 }
+Florin Florea { Programare Orientata pe Obiecte : 2.01 3.21 ; Paradigme de programare : 0.74 4.65 }
+Costel Busuioc { Programare Orientata pe Obiecte : 4.95 0.11 ; Paradigme de programare : 3.45 2.15 }
+Sebastian Moisescu { Programare Orientata pe Obiecte : 3.51 4.23 ; Paradigme de programare : 4.10 3.25 }
+Larisa Oana { Programare Orientata pe Obiecte : 4.29 3.64 ; Paradigme de programare : 0.58 4.26 }
+Georgiana Calin { Programare Orientata pe Obiecte : 1.57 3.5 ; Paradigme de programare : 3.52 4.95 }
+Dragos Barbu { Programare Orientata pe Obiecte : 0.54 3.55 ; Paradigme de programare : 2.42 0.55 }
+Alberto Ciobanu { Programare Orientata pe Obiecte : 3.45 2.85 ; Paradigme de programare : 3.48 3.56 }
+Livia Ursu { Sisteme de operare : 2.55 3.33 ; Electronica digitala : 2.45 3.25 }
+Alfred Pop { Sisteme de operare : 1.54 2.52 ; Electronica digitala : 4.21 2.89 }
+Iulian Iancu { Sisteme de operare : 1.74 3.54 ; Electronica digitala : 4.26 3.15 }
+Sofia Negoita { Sisteme de operare : 1.95 6.89 ; Electronica digitala : 0.52 1.26 }
+Alma Dobrica { Sisteme de operare : 4.32 1.5 ; Electronica digitala : 3.15 0.52 }
+Cristian Manole { Sisteme de operare : 2.45 3.66 ; Electronica digitala : 0.25 3.48 }
+Denisa Pavel { Sisteme de operare : 1.02 4.65 ; Electronica digitala : 0.85 2.49 }
+Alex Petrescu { Sisteme de operare : 1.06 4.00 ; Electronica digitala : 3.25 4.66 }
+Cosmin Tomulescu { Sisteme de operare : 0.65 4.95 ; Electronica digitala : 1.36 2.65 }
+Camelia Tunaru { Sisteme de operare : 2.15 3.25 ; Electronica digitala : 0.55 3.22 }
+]
